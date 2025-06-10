@@ -1,4 +1,4 @@
-### <div align="center">Hi👋🏻 I'm Arul, a full-stack developer 👨‍💻 since 2023 🚀</div>  
+### <div align="center">Hi👋🏻 I'm Arul, a full-stack developer</div>  
   
 
 - 🔭 I’m currently working on Personal Projects (https://github.com/Arul-1911)  
